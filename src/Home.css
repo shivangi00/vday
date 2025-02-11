@@ -1,0 +1,43 @@
+* {
+    background-color: #dde2ff;
+}
+
+.home-page {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    width: 50%;
+    gap: 15px 0;
+    margin: 5% 30% 2% 30%;
+}
+
+.home-page img {
+    width: 70%;
+    height: 100%;
+    aspect-ratio: 1;
+}
+
+.home-content {
+    text-align: center;
+    font-size:x-large;
+    color: purple;
+}
+
+.home-content button {
+  background-color: #fff;
+  border-radius: 24px;
+  border-style: none;
+  color: #3c4043;
+  cursor: pointer;
+  font-size: large;
+  padding:15px 24px;
+  text-align: center;
+}
+
+.home-content button:hover {
+    text-transform: none;    
+    box-shadow: rgba(0, 0, 0, .2) 0 3px 5px -1px,rgba(0, 0, 0, .14) 0 6px 10px 0,rgba(0, 0, 0, .12) 0 1px 18px 0;
+    box-sizing: border-box;
+    transition: box-shadow 280ms cubic-bezier(.4, 0, .2, 1),opacity 5ms linear 3ms,transform 2ms cubic-bezier(0, 0, .2, 1);
+    background: #F6F9FE;
+    color: #174ea6;
+}
