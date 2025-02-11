@@ -2,6 +2,7 @@
   "name": "vday",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://shivangi00.github.io/vday",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
@@ -9,7 +10,10 @@
     "react-router-dom": "^7.1.5",
     "react-scripts": "5.0.1"
   },
+
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
