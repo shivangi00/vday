@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/valentines/static/css/main.081a05b8.css",
+    "main.js": "/valentines/static/js/main.b0b40138.js",
+    "static/js/156.73860957.chunk.js": "/valentines/static/js/156.73860957.chunk.js",
+    "static/media/Tired Cat GIF.gif": "/valentines/static/media/Tired Cat GIF.67f74e97dead2b25b594.gif",
+    "static/media/pedro pedro pedro.mp4": "/valentines/static/media/pedro pedro pedro.ac3082c81a6df7831207.mp4",
+    "static/media/GIF by ViralHog.gif": "/valentines/static/media/GIF by ViralHog.977317781312e0900e83.gif",
+    "static/media/cat gun.png": "/valentines/static/media/cat gun.dc505898c0ed96275b5c.png",
+    "static/media/Despicable Me Please GIF.gif": "/valentines/static/media/Despicable Me Please GIF.a68af85ea57e9a123869.gif",
+    "static/media/Cat Yell GIF by Elgato.gif": "/valentines/static/media/Cat Yell GIF by Elgato.813996473695185c086f.gif",
+    "static/media/Bored Cat GIF.gif": "/valentines/static/media/Bored Cat GIF.4ecb6e6c4f44995fecc1.gif",
+    "static/media/Working Work From Home GIF.gif": "/valentines/static/media/Working Work From Home GIF.e79aa3c6c966568cfca9.gif",
+    "static/media/Question Mark What GIF.gif": "/valentines/static/media/Question Mark What GIF.b64af2a79e8b754981cb.gif",
+    "static/media/cat book GIF.gif": "/valentines/static/media/cat book GIF.ae692c7a1d950d5b911b.gif",
+    "index.html": "/valentines/index.html",
+    "main.081a05b8.css.map": "/valentines/static/css/main.081a05b8.css.map",
+    "main.b0b40138.js.map": "/valentines/static/js/main.b0b40138.js.map",
+    "156.73860957.chunk.js.map": "/valentines/static/js/156.73860957.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.081a05b8.css",
+    "static/js/main.b0b40138.js"
+  ]
+}
